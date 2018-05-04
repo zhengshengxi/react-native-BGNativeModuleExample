@@ -1,0 +1,19 @@
+{
+  "name": "react-native-bgnativemoduleexample33",
+  "version": "1.0.1",
+  "description": "测试发布npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengshengxi/react-native-BGNativeModuleExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengshengxi/react-native-BGNativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/zhengshengxi/react-native-BGNativeModuleExample#readme"
+}
